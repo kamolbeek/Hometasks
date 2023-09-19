@@ -1,2 +1,1 @@
-print("olma")
-print("dsadfsd")
+print("wededfrfrf")
