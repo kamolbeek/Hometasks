@@ -1,1 +1,2 @@
-print("olma");
+print("olma")
+print("dsadfsd")
