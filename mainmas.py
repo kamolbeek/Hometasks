@@ -1,1 +1,1 @@
-print("nimad")
+print("nima")
